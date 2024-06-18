@@ -9,7 +9,7 @@ Exemplo de desenvolvimento em equipe
 
 ![diagrama do sistema bancario](diagrama-sistema-bancario.png)
 
-##Classe conta
+## Classe conta
 
 A classe conta deve ter:
 
