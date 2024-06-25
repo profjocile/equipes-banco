@@ -37,7 +37,7 @@ graph TD
     B7 --> B8[Insira o bairro]
     B8 --> B9[Insira o número da residência]
     B9 --> B10{Número válido?}
-    B10 -->|Sim| B11[Insira o número de contato do alunO]
+    B10 -->|Sim| B11[Insira o número de contato do aluno]
     B10 -->|Não| B9
     B11 --> B12{Contato válido?}
     B12 -->|Sim| B13[Insira o nome do responsável]
