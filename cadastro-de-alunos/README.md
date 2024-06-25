@@ -15,7 +15,7 @@ Com a matrícula que é gerada ao matricular o aluno, você poderá ter a opçã
 Você poderá pesquisar o aluno que deseja excluir com o uso da matrícula do mesmo. Ao inserir a matrícula o programa retornará com uma pergunta para confirmação da exclusão do aluno, mostrando seu nome e matrícula.
 Caso o usuário queira confirmar a exclusão deve digitar "s" e teclar "Enter", caso deseje cancelar será necessário apenas declar "Enter".
 
-
+Diagrama de fluxo do sistema:
 
 ```mermaid
 graph TD
@@ -74,5 +74,8 @@ graph TD
 
 
 ```
+Diagrama do Banco de Dados:
+
+![Capturar](https://github.com/profjocile/equipes-banco/assets/168863319/6c055c46-d276-4500-a957-0f344da468da)
 
 
